@@ -6,6 +6,11 @@ In this repository we develop materials for a course introducing students to som
 See [here](https://github.com/tmalsburg/eye-tracking-methods/graphs/contributors) for a list of contributors.
 
 ## Course description
+
+The goal of this course is to put participants in the position to conduct eye-tracking experiments on their own while actually understanding what they are doing.  This means that we will not be satisfied with clicking the buttons in manufacturer-provided software, but we will aim to understand each step in the acquisition, preprocessing, analysis pipeline up to the statistical analysis.  Time permitting we will also look into some prominent computational models of eye movement behavior.
+
+Specific topics: Eye physiology, visual perception, oculo-motor control and types of eye movements, design of eye-tracking experiments, acquisition of eye movement data, eye-tracking quality control, algorithms for the detection of eye movements and gaze fixations,  conventional eye-tracking measures, scanpath analysis, computational models of eye movement behavior.
+
 The course consists of lectures, discussion, supervised practical exercises, and self-organized project work.  We will meet once a week for a lecture and discussion.  Supervised exercises will take place at a fixed time each week in the eye-tracking lab in Keplerstraße 17 (K2, R10.012).  Project work will be conducted in small groups which will also have access to the lab.  As eye-trackers we will use two GazePoint GP3HD and one GP3 remote eye-tracker.  A research-grade SMI IView X tower-mount eye-tracker may also be available for those interested.
 
 **Prerequisites:**
@@ -22,10 +27,10 @@ t.b.d.
 
 ## Organizational details
 Time lecture: Wed, 9:45-11:15\
-Room lecture: t.b.d.
+Room lecture: Keplerstraße 17 (K2), R17.72
 
 Time lab exercises: t.b.d.\
-Room lab exercises: Keplerstraße 17, R10.012
+Room lab exercises: Keplerstraße 17 (K2), R10.012
 
 ## Syllabus
 ### Week 01 (Oct 20):
