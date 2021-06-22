@@ -40,8 +40,8 @@ Lab exercises:
 ### Week 07 (Dec 01): Acquisition of eye-tracking data and quality control 2
 ### Week 08 (Dec 08): Topics for group projects
 ### Week 09 (Dec 15): Detection of eye movements in raw eye-tracking data: Box- and velocity-based algorithms
-### Week 10 (Dec 22): Conventional eye-tracking measures and analysis approaches 1
-### Week 11 (Jan 05): Conventional eye-tracking measures and analysis approaches 2
+### Week 10 (Dec 22): Conventional eye-tracking measures and analysis approaches in scene perception research
+### Week 11 (Jan 05): Conventional eye-tracking measures and analysis approaches in reading research
 ### Week 12 (Jan 12): Scanpath analysis
 ### Week 13 (Jan 19): A computational model of eye movements in scene viewing
 ### Week 13 (Jan 19): A computational model of eye movements in reading
