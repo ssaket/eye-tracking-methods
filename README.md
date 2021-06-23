@@ -82,25 +82,25 @@ Lab exercises:
 ### Week 06 (Nov 24): Acquisition of eye-tracking data and quality control 1
   - ? Calibration methods
 
-
-### Week 07 (Dec 01): Acquisition of eye-tracking data and quality control 2
-### Week 08 (Dec 08): Topics for group projects
+### Week 07 (Dec 01): Topics for group projects
   ? Should we give them explicit ideas like
     - Visual Search
     - Region of Interest
     - Reading task, Music sheets?
   ? Or should we give them a question, or should they come up with one themselves?
    
-### Week 09 (Dec 15): Detection of eye movements in raw eye-tracking data: Box- and velocity-based algorithms
+### Week 08 (Dec 08): Detection of eye movements in raw eye-tracking data: Box- and velocity-based algorithms
   -> Maybe broaden this up to blackbox algorithms as well? Cluster, HMMs, Deepnets
-  
-### Week 10 (Dec 22): Conventional eye-tracking measures and analysis approaches in scene perception research
+  - Automated correction of fixation locations:
+    - Carr, J. W., Pescuma, V. N., Furlan, M., Ktori, M., & Crepaldi, D. (2021). Algorithms for the automated correction of vertical drift in eye-tracking data. Behavior Research Methods. http://dx.doi.org/10.3758/s13428-021-01554-0
 
-### Week 11 (Jan 05): Conventional eye-tracking measures and analysis approaches in reading research
+### Week 09 (Dec 15): Conventional eye-tracking measures and analysis approaches in scene perception research
+
+### Week 10 (Dec 22): Conventional eye-tracking measures and analysis approaches in reading research
   !! No slot in this week, BaWü has long christmas break
 
-### Week 12 (Jan 12): Scanpath analysis
-### Week 13 (Jan 19): A computational model of eye movements in scene viewing
+### Week 11 (Jan 12): Scanpath analysis
+### Week 12 (Jan 19): A computational model of eye movements in scene viewing
   - SceneWalk
   - Deepgaze
 
