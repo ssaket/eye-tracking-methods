@@ -32,19 +32,79 @@ Lab exercises:
 
 ## Syllabus
 ### Week 01 (Oct 20): Eye physiology and visual perception
+=> Demo with Pupil Labs?
+
+  - Retina
+  - peripheral/foveal
+  - Optics (lense, light)
+  - pupil
+  - eye muscles
+  
 ### Week 02 (Oct 27): Oculo-motor control and types of eye movements
+  - FEF, PPC, superior colliculus
+  - Saccades
+  - Fixations
+    - Smooth Pursuit
+    - VOR, OK
+  - vergence
+  - rotation
+ 
 ### Week 03 (Nov 03): Eye-tracking technologies / types of eye-trackers
+  - Trackable features 
+    - Pupil
+      - Dark/Light Pupil
+    -  Cornea-Reflection
+    -  Iris => rotation 
+    -  Photoreceptors
+    -  Eye-Ball
+  - Historical measures
+    -  looking at eyes
+    -  mirrors on eyes
+    -  coils
+    -  EOG
+
+  - Videobased ET
+    - remote
+    - headmounted
+      - mobile ET
+        - parallax problem
+    
+  - Dual-Purkinje, 
+  - laser scanning
+  - bubble/mouse-click technique
+
+
 ### Week 04 (Nov 10): Design and implementation of a simple eye-tracking experiment with OpenSesame
+  ? Doesnt this require basic knowledge given earliest in Week 10 / 11 the eye-tracking measures?
+  ? I.e. fixation duration, AOI etc. Or should we preview them here as well?
+
 ### Week 05 (Nov 17): Design and implementation of a simple gaze-contingent experiment with OpenSesame
 ### Week 06 (Nov 24): Acquisition of eye-tracking data and quality control 1
+  - ? Calibration methods
+
+
 ### Week 07 (Dec 01): Acquisition of eye-tracking data and quality control 2
 ### Week 08 (Dec 08): Topics for group projects
+  ? Should we give them explicit ideas like
+    - Visual Search
+    - Region of Interest
+    - Reading task, Music sheets?
+  ? Or should we give them a question, or should they come up with one themselves?
+   
 ### Week 09 (Dec 15): Detection of eye movements in raw eye-tracking data: Box- and velocity-based algorithms
+  -> Maybe broaden this up to blackbox algorithms as well? Cluster, HMMs, Deepnets
+  
 ### Week 10 (Dec 22): Conventional eye-tracking measures and analysis approaches in scene perception research
+
 ### Week 11 (Jan 05): Conventional eye-tracking measures and analysis approaches in reading research
+  !! No slot in this week, BaWü has long christmas break
+
 ### Week 12 (Jan 12): Scanpath analysis
 ### Week 13 (Jan 19): A computational model of eye movements in scene viewing
-### Week 13 (Jan 19): A computational model of eye movements in reading
+  - SceneWalk
+  - Deepgaze
+
+### Week 13 (Jan 26): A computational model of eye movements in reading
 ### Week 14 (Feb 02): Presentation of group projects
 ### Week 15 (Feb 09): Presentation of group projects
 
