@@ -40,6 +40,15 @@ Presenter: Bene
   - Optics (lense, light)
   - pupil
   - eye muscles
+
+**Homework:**
+  - Work through some Python tutorial.  Needs to cover basic math needed for the course.
+  - Some basic programming exercises.
+    1. Read some from a `.csv` file.
+    2. Make a simple plot of the data and save it in a file.
+    3. Calculate some basic summary statistics (mean, standard deviation, median, median absolute deviation, …).
+    4. Write data to a `.csv` file.
+  - Read relevant chapter in Holmqvist et al.
   
 ### Week 02 (Oct 27): Topics for group projects
 Presenter: Bene, Titus
@@ -48,6 +57,11 @@ Presenter: Bene, Titus
     - Region of Interest
     - Reading task, Music sheets?
   - Or should we give them a question, or should they come up with one themselves?
+
+**Homework:**
+  - Read some chapter in Holmqvist et al.
+  - Choose a project or propose your own.
+  - Form groups of 2 to 4 people for the project work.
 
 ### Week 03 (Nov 03): Oculo-motor control and types of eye movements
 Presenter: Bene
@@ -58,6 +72,9 @@ Presenter: Bene
     - VOR, OK
   - vergence
   - rotation
+
+**Homework:**
+  - Read relevant chapter in Holmqvist et al.
  
 ### Week 04 (Nov 10): Eye-tracking technologies / types of eye-trackers
 Presenter: Bene
@@ -84,13 +101,23 @@ Presenter: Bene
   - laser scanning
   - bubble/mouse-click technique
 
+**Homework:**
+  - Read relevant chapter in Holmqvist et al.
+
 ### Week 05 (Nov 17): Designing experiments with OpenSesame 1
 Presenter: Edwin Dalmaijer?
   - Doesnt this require basic knowledge given earliest in Week 10 / 11 the eye-tracking measures?
   - I.e. fixation duration, AOI etc. Or should we preview them here as well?
 
+**Homework:**
+  - Install OpenSesame.
+  - Work through introductory tutorial.
+
 ### Week 06 (Nov 24): Designing experiments with OpenSesame 2
 Presenter: Edwin Dalmaijer?
+
+**Homework:**
+  - Work through advanced OpenSesame tutorials.
 
 ### Week 07 (Dec 01): Acquisition of eye-tracking data and quality control 1
 Presenter: Titus
@@ -106,6 +133,15 @@ Presenter: Titus
   - Typical failure modes (example data).
   - Instructions (when you tell people not to blink, they sometimes blink more)
 
+**Homework:**
+  - Read relevant chapter in Holmqvist et al.
+  - For a given data set:
+    - perform drift correction
+    - calculate accuracy
+    - calculate precision
+    - check how stable the sampling rate was, quantify variability somehow
+    - label each sample with the AOI that it’s in (if any)
+
 ### Week 08 (Dec 08): Detection of eye movements events and post-processing
 Presenter: Titus
   - Maybe broaden this up to blackbox algorithms as well? Cluster, HMMs, Deepnets
@@ -115,8 +151,17 @@ Presenter: Titus
     - Cohen, A. L. (2012). Software for the automatic correction of recorded eye fixation locations in reading experiments. Behavior Research Methods, 45(3), 679–683. http://dx.doi.org/10.3758/s13428-012-0280-3
     - Carr, J. W., Pescuma, V. N., Furlan, M., Ktori, M., & Crepaldi, D. (2021). Algorithms for the automated correction of vertical drift in eye-tracking data. Behavior Research Methods. http://dx.doi.org/10.3758/s13428-021-01554-0
 
+**Homework:**
+  - Read relevant chapter in Holmqvist et al.
+  - Implement one of the following two and evaluate its performance using the provided reference data set:
+    - a basic velocity-based saccade detection
+    - a basic box-model fixation detection
+
 ### Week 09 (Dec 15): Conventional eye-tracking measures and analysis approaches in scene perception research
 Presenter: Bene
+
+**Homework:**
+  - Read relevant chapter in Holmqvist et al.
 
 ### Week 10 (Dec 22): Conventional eye-tracking measures and analysis approaches in reading research and the visual world paradigm
 Presenter: Titus
@@ -132,6 +177,18 @@ Visual world paradigm:
   - Permutation tests
   - Stone and Lago paper.
 
+**Homework:**
+  - Read relevant chapter in Holmqvist et al.
+  - Read:
+    - Clifton, C., Staub, A., & Rayner, K. (2007). Eye movements in reading words and sentences. In R. P. G. van Gompel (Eds.), Eye Movements: A Window on Mind and Brain (pp. 341–374). Amsterdam, Netherlands: Elsevier Science Ltd.
+    - Vasishth, S., von der Malsburg, T., & Engelmann, F. (2013). What eye movements can tell us about sentence comprehension. Wiley Interdisciplinary Reviews: Cognitive Science, 4(2), 125–134. http://dx.doi.org/10.1002/wcs.1209
+    - Provided a reference data set (fixations) write code that calculates:
+      - First fixation durations
+      - Gaze durations
+      - First pass skipping probability
+      - First pass regression probability
+      - Total reading time
+
 ### Week 11 (Jan 12): Scanpaths
 Presenter: Titus
   - Scanpath theory
@@ -142,17 +199,42 @@ Presenter: Titus
     - HMMs
   - Malsburg & Vasishth (2011)
 
+**Homework:**
+  - Read relevant chapter in Holmqvist et al. (if any).
+  - Given a python function for calculating the dissimilarity of two scanpaths, perform some simple scanpath analysis.
+
 ### Week 12 (Jan 19): Computational models of eye movements in scene viewing
 Presenter: Bene
   - SceneWalk
   - Deepgaze
 
+**Homework:**
+  - Read relevant chapter in Holmqvist et al.
+
 ### Week 13 (Jan 26): Computational models of eye movements in reading
 Presenter: Titus
+
+**Homework:**
+  - Read relevant chapter in Holmqvist et al.
+  - Read (some or all of):
+    - Engelmann, F., Vasishth, S., Engbert, R., & Kliegl, R. (2013). A
+      framework for modeling the interaction of syntactic processing and
+      eye movement control. Topics in Cognitive Science, 5(3),
+      452–474. http://dx.doi.org/10.1111/tops.12026
+    - Salvucci, D. D. (2001). An integrated model of eye movements and
+      visual encoding. Cognitive Systems Research, 1(4),
+      201–220. http://dx.doi.org/10.1016/s1389-0417(00)00015-2
+    - Reichle, E. D., Rayner, K., & Pollatsek, A. (2003). The e-z reader
+      model of eye-movement control in reading: Comparisons to other
+      models. Behavioral Brain Science, 26(4), 445–476.
 
 ### Week 14 (Feb 02): Presentation of group projects
 Presenter: Students
 
+**Homework:** None.
+
 ### Week 15 (Feb 09): Presentation of group projects
 Presenter: Students
+
+**Homework:** None.
 
