@@ -183,12 +183,17 @@ Visual world paradigm:
     - Kliegl, R., & Laubrock, J. (2018). Eye-movement tracking during reading. In (Eds.), Research methods in psycholinguistics and the neurobiology of language: {A} practical guide (pp. 68–88). : Wiley Blackwell.
     - Clifton, C., Staub, A., & Rayner, K. (2007). Eye movements in reading words and sentences. In R. P. G. van Gompel (Eds.), Eye Movements: A Window on Mind and Brain (pp. 341–374). Amsterdam, Netherlands: Elsevier Science Ltd.
     - Vasishth, S., von der Malsburg, T., & Engelmann, F. (2013). What eye movements can tell us about sentence comprehension. Wiley Interdisciplinary Reviews: Cognitive Science, 4(2), 125–134. http://dx.doi.org/10.1002/wcs.1209
-    - Provided a reference data set (fixations, perhaps Potsdam Sentence Corpus) write code that calculates:
-      - First fixation durations
-      - Gaze durations
-      - First pass skipping probability
-      - First pass regression probability
-      - Total reading time
+  - Provided a reference data set (fixations, perhaps Potsdam Sentence Corpus) write code that calculates:
+    - First fixation durations
+    - Gaze durations
+    - First pass skipping probability
+    - First pass regression probability
+    - Total reading time
+  - In the Potsdam Sentence Corpus, calculate proportion of:
+    - progressive saccades to the next word,
+    - progressive saccades that skip the next word,
+    - regressions,
+    - refixations.
 
 ### Week 11 (Jan 12): Scanpaths
 Presenter: Titus
