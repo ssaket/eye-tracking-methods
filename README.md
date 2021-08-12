@@ -32,6 +32,7 @@ Lab exercises:
 
 ## Syllabus
 ### Week 01 (Oct 20): Eye physiology and visual perception
+Presenter: Bene
 => Demo with Pupil Labs?
 
   - Retina
@@ -41,6 +42,7 @@ Lab exercises:
   - eye muscles
   
 ### Week 02 (Oct 27): Topics for group projects
+Presenter: Bene, Titus
   ? Should we give them explicit ideas like
     - Visual Search
     - Region of Interest
@@ -48,6 +50,7 @@ Lab exercises:
   ? Or should we give them a question, or should they come up with one themselves?
 
 ### Week 03 (Nov 03): Oculo-motor control and types of eye movements
+Presenter: Bene
   - FEF, PPC, superior colliculus
   - Saccades
   - Fixations
@@ -57,6 +60,7 @@ Lab exercises:
   - rotation
  
 ### Week 04 (Nov 10): Eye-tracking technologies / types of eye-trackers
+Presenter: Bene
   - Trackable features 
     - Pupil
       - Dark/Light Pupil
@@ -80,31 +84,75 @@ Lab exercises:
   - laser scanning
   - bubble/mouse-click technique
 
-
-### Week 05 (Nov 17): Design and implementation of a simple eye-tracking experiment with OpenSesame
+### Week 05 (Nov 17): Designing experiments with OpenSesame 1
+Presenter: Edwin Dalmaijer?
   ? Doesnt this require basic knowledge given earliest in Week 10 / 11 the eye-tracking measures?
   ? I.e. fixation duration, AOI etc. Or should we preview them here as well?
 
-### Week 06 (Nov 24): Design and implementation of a simple gaze-contingent experiment with OpenSesame
-### Week 07 (Dec 01): Acquisition of eye-tracking data and quality control 1
-  - ? Calibration methods
+### Week 06 (Nov 24): Designing experiments with OpenSesame 2
+Presenter: Edwin Dalmaijer?
 
-### Week 08 (Dec 08): Detection of eye movements in raw eye-tracking data: Box- and velocity-based algorithms
-  -> Maybe broaden this up to blackbox algorithms as well? Cluster, HMMs, Deepnets
+### Week 07 (Dec 01): Acquisition of eye-tracking data and quality control 1
+Presenter: Titus
+  - Calibration methods
+  - Drift correction
+  - Glasses, contact lenses
+  - Lighting
+  - Chins rests
+  - Remote tracking
+  - Tower mount vs. desktop mount systems
+  - Measures of accuracy / precision
+  - Racial differences, model- vs. centroid pupil-tracking
+  - Typical failure modes (example data).
+  - Instructions (when you tell people not to blink, they sometimes blink more)
+
+### Week 08 (Dec 08): Detection of eye movements events and post-processing
+Presenter: Titus
+  - Maybe broaden this up to blackbox algorithms as well? Cluster, HMMs, Deepnets
+  - Criteria for removing data.
+  - Manual corrections (common in some fields but questionable).
   - Automated correction of fixation locations:
+    - Cohen, A. L. (2012). Software for the automatic correction of recorded eye fixation locations in reading experiments. Behavior Research Methods, 45(3), 679–683. http://dx.doi.org/10.3758/s13428-012-0280-3
     - Carr, J. W., Pescuma, V. N., Furlan, M., Ktori, M., & Crepaldi, D. (2021). Algorithms for the automated correction of vertical drift in eye-tracking data. Behavior Research Methods. http://dx.doi.org/10.3758/s13428-021-01554-0
 
 ### Week 09 (Dec 15): Conventional eye-tracking measures and analysis approaches in scene perception research
+Presenter: Bene
 
-### Week 10 (Dec 22): Conventional eye-tracking measures and analysis approaches in reading research
-  !! No slot in this week, BaWü has long christmas break
+### Week 10 (Dec 22): Conventional eye-tracking measures and analysis approaches in reading research and the visual world paradigm
+Presenter: Titus
+Reading:
+  - Canonical ET measures and their interpretation.
+  - Statistical issues
+  - Predicting comprehension from canonical ET measures (Mézière et al.).
+Visual world paradigm:
+  - Looks to target over time plots
+  - Binned analysis
+  - Gamms
+  - Survival analysis
+  - Permutation tests
+  - Stone and Lago paper.
 
-### Week 11 (Jan 12): Scanpath analysis
-### Week 12 (Jan 19): A computational model of eye movements in scene viewing
+### Week 11 (Jan 12): Scanpaths
+Presenter: Titus
+  - Scanpath theory
+  - Yarbus
+  - Frazier & Rayner (1982)
+  - Overview of approaches 
+    - Anderson, N. C., Anderson, F., Kingstone, A., & Bischof, W. F. (2014). A comparison of scanpath comparison methods. Behavior Research Methods, 1–16. http://dx.doi.org/10.3758/s13428-014-0550-3
+    - HMMs
+  - Malsburg & Vasishth (2011)
+
+### Week 12 (Jan 19): Computational models of eye movements in scene viewing
+Presenter: Bene
   - SceneWalk
   - Deepgaze
 
-### Week 13 (Jan 26): A computational model of eye movements in reading
+### Week 13 (Jan 26): Computational models of eye movements in reading
+Presenter: Titus
+
 ### Week 14 (Feb 02): Presentation of group projects
+Presenter: Students
+
 ### Week 15 (Feb 09): Presentation of group projects
+Presenter: Students
 
