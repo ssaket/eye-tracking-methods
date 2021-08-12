@@ -40,7 +40,14 @@ Lab exercises:
   - pupil
   - eye muscles
   
-### Week 02 (Oct 27): Oculo-motor control and types of eye movements
+### Week 02 (Oct 27): Topics for group projects
+  ? Should we give them explicit ideas like
+    - Visual Search
+    - Region of Interest
+    - Reading task, Music sheets?
+  ? Or should we give them a question, or should they come up with one themselves?
+
+### Week 03 (Nov 03): Oculo-motor control and types of eye movements
   - FEF, PPC, superior colliculus
   - Saccades
   - Fixations
@@ -49,7 +56,7 @@ Lab exercises:
   - vergence
   - rotation
  
-### Week 03 (Nov 03): Eye-tracking technologies / types of eye-trackers
+### Week 04 (Nov 10): Eye-tracking technologies / types of eye-trackers
   - Trackable features 
     - Pupil
       - Dark/Light Pupil
@@ -74,21 +81,14 @@ Lab exercises:
   - bubble/mouse-click technique
 
 
-### Week 04 (Nov 10): Design and implementation of a simple eye-tracking experiment with OpenSesame
+### Week 05 (Nov 17): Design and implementation of a simple eye-tracking experiment with OpenSesame
   ? Doesnt this require basic knowledge given earliest in Week 10 / 11 the eye-tracking measures?
   ? I.e. fixation duration, AOI etc. Or should we preview them here as well?
 
-### Week 05 (Nov 17): Design and implementation of a simple gaze-contingent experiment with OpenSesame
-### Week 06 (Nov 24): Acquisition of eye-tracking data and quality control 1
+### Week 06 (Nov 24): Design and implementation of a simple gaze-contingent experiment with OpenSesame
+### Week 07 (Dec 01): Acquisition of eye-tracking data and quality control 1
   - ? Calibration methods
 
-### Week 07 (Dec 01): Topics for group projects
-  ? Should we give them explicit ideas like
-    - Visual Search
-    - Region of Interest
-    - Reading task, Music sheets?
-  ? Or should we give them a question, or should they come up with one themselves?
-   
 ### Week 08 (Dec 08): Detection of eye movements in raw eye-tracking data: Box- and velocity-based algorithms
   -> Maybe broaden this up to blackbox algorithms as well? Cluster, HMMs, Deepnets
   - Automated correction of fixation locations:
