@@ -180,9 +180,10 @@ Visual world paradigm:
 **Homework:**
   - Read relevant chapter in Holmqvist et al.
   - Read:
+    - Kliegl, R., & Laubrock, J. (2018). Eye-movement tracking during reading. In (Eds.), Research methods in psycholinguistics and the neurobiology of language: {A} practical guide (pp. 68–88). : Wiley Blackwell.
     - Clifton, C., Staub, A., & Rayner, K. (2007). Eye movements in reading words and sentences. In R. P. G. van Gompel (Eds.), Eye Movements: A Window on Mind and Brain (pp. 341–374). Amsterdam, Netherlands: Elsevier Science Ltd.
     - Vasishth, S., von der Malsburg, T., & Engelmann, F. (2013). What eye movements can tell us about sentence comprehension. Wiley Interdisciplinary Reviews: Cognitive Science, 4(2), 125–134. http://dx.doi.org/10.1002/wcs.1209
-    - Provided a reference data set (fixations) write code that calculates:
+    - Provided a reference data set (fixations, perhaps Potsdam Sentence Corpus) write code that calculates:
       - First fixation durations
       - Gaze durations
       - First pass skipping probability
@@ -217,6 +218,10 @@ Presenter: Titus
 **Homework:**
   - Read relevant chapter in Holmqvist et al.
   - Read (some or all of):
+    - Engbert, R., Nuthmann, A., Richter, E. M., & Kliegl,
+      R. (2005). SWIFT: A dynamical model of saccade generation during
+      reading. Psychological Review, 112(4),
+      777–813. http://dx.doi.org/10.1037/0033-295X.112.4.777
     - Engelmann, F., Vasishth, S., Engbert, R., & Kliegl, R. (2013). A
       framework for modeling the interaction of syntactic processing and
       eye movement control. Topics in Cognitive Science, 5(3),
