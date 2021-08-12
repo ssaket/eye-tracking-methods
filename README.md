@@ -43,11 +43,11 @@ Presenter: Bene
   
 ### Week 02 (Oct 27): Topics for group projects
 Presenter: Bene, Titus
-  ? Should we give them explicit ideas like
+  - Should we give them explicit ideas like
     - Visual Search
     - Region of Interest
     - Reading task, Music sheets?
-  ? Or should we give them a question, or should they come up with one themselves?
+  - Or should we give them a question, or should they come up with one themselves?
 
 ### Week 03 (Nov 03): Oculo-motor control and types of eye movements
 Presenter: Bene
@@ -86,8 +86,8 @@ Presenter: Bene
 
 ### Week 05 (Nov 17): Designing experiments with OpenSesame 1
 Presenter: Edwin Dalmaijer?
-  ? Doesnt this require basic knowledge given earliest in Week 10 / 11 the eye-tracking measures?
-  ? I.e. fixation duration, AOI etc. Or should we preview them here as well?
+  - Doesnt this require basic knowledge given earliest in Week 10 / 11 the eye-tracking measures?
+  - I.e. fixation duration, AOI etc. Or should we preview them here as well?
 
 ### Week 06 (Nov 24): Designing experiments with OpenSesame 2
 Presenter: Edwin Dalmaijer?
