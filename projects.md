@@ -32,6 +32,8 @@ Demonstrate the garden path effect using eye-tracking: Regressions upon disambig
 Use eye-tracking to investigate the readability of various fonts, e.g., Times New Roman vs. Arial vs. Gothic vs. whatnot.
 - Slattery, T. J. (2016). Eye movements: From psycholinguistics to font design. Digital Fonts and Reading, 54–78. http://dx.doi.org/10.1142/9789814759540_0004
 
+## Replicate Experiment 2 in Rohde, Levy, Keller (Cognition, 2011).
+Goal is to test whether discourse expectations modulate syntactic attachment decisions.  A pretty standard reading design.  Stimuli are available.
 
 # Honorable mention
 ## Cognitive Load on Pupil
