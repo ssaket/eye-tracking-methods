@@ -108,19 +108,30 @@ Presenter: Bene
   - Read relevant chapter in Holmqvist et al.
 
 ### Week 06 (Nov 24): Designing experiments with OpenSesame 1
-Presenter: Edwin Dalmaijer?
-  - Doesnt this require basic knowledge given earliest in Week 10 / 11 the eye-tracking measures?
-  - I.e. fixation duration, AOI etc. Or should we preview them here as well?
+Presenter: Edwin Dalmaijer
+  - Basics of OpenSesame without eye-tracking.  E.g. Posner cuing task.
+  - Add eye-tracking (and mouse simulation) to the Posner task.
+  - Anatomy of a simple scene-perception experiment, e.g. Yarbus-style.
 
 **Homework:**
   - Install OpenSesame.
   - Work through introductory tutorial.
+  - Implement a simple scene perception experiment similar to what was
+    shown in the lecture but spelled out into a full experiment that
+    you could actually run.  Could be modeled after some classic
+    study, e.g. Yarbus (1967).  Test it with mouse-tracking.
 
 ### Week 07 (Dec 01): Designing experiments with OpenSesame 2
-Presenter: Edwin Dalmaijer?
+Presenter: Edwin Dalmaijer
+  - Anatomy of a simple reading experiment.
+  - Gaze-contingency: make the experiment respond to eye movements.
 
 **Homework:**
-  - Work through advanced OpenSesame tutorials.
+  - Work through Visual World tutorial for OpenSesame.
+  - Implement a simple reading experiment similar to what was
+    shown in the lecture but spelled out into a full experiment that
+    you could actually run.  Could be modeled after some classic
+    study.  Test it with mouse-tracking.
 
 ### Week 08 (Dec 08): Acquisition of eye-tracking data and quality control 1
 Presenter: Titus
