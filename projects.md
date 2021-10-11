@@ -35,6 +35,10 @@ Use eye-tracking to investigate the readability of various fonts, e.g., Times Ne
 ## Replicate Experiment 2 in Rohde, Levy, Keller (Cognition, 2011).
 Goal is to test whether discourse expectations modulate syntactic attachment decisions.  A pretty standard reading design.  Stimuli are available.
 
+## Replicate Visual Search Study Kugler et al 2016
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0145910
+Pretty standard visual search task with positive and negative cues (color=red, or color!=red)
+
 # Honorable mention
 ## Cognitive Load on Pupil
   pupil dilation during n-back tasks
