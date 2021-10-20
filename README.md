@@ -31,10 +31,10 @@ Lab exercises:
 - Room: Keplerstraße 17 (K2), R10.012 (10th floor).
 
 ## Syllabus
-### Week 01 (Oct 20): No class
+### Week 00 (Oct 20): No class
 The university requested that we leave the first three days of the lecture period free for [introductory events](https://www.student.uni-stuttgart.de/en/startingout/introduction/study-program/).
 
-### Week 02 (Oct 27): Eye physiology and visual perception
+### Week 01 (Oct 27): Eye physiology and visual perception
 Presenter: Bene
 => Demo with Pupil Labs?
 
@@ -53,7 +53,7 @@ Presenter: Bene
     4. Write data to a `.csv` file.
   - Read relevant chapter in Holmqvist et al.
   
-### Week 03 (Nov 03): Topics for group projects
+### Week 02 (Nov 03): Topics for group projects
 Presenter: Bene, Titus
   - Should we give them explicit ideas like
     - Visual Search
@@ -66,7 +66,7 @@ Presenter: Bene, Titus
   - Choose a project or propose your own.
   - Form groups of 2 to 4 people for the project work.
 
-### Week 04 (Nov 10): Oculo-motor control and types of eye movements
+### Week 03 (Nov 10): Oculo-motor control and types of eye movements
 Presenter: Bene
   - FEF, PPC, superior colliculus
   - Saccades
@@ -79,7 +79,7 @@ Presenter: Bene
 **Homework:**
   - Read relevant chapter in Holmqvist et al.
  
-### Week 05 (Nov 17): Eye-tracking technologies / types of eye-trackers
+### Week 04 (Nov 17): Eye-tracking technologies / types of eye-trackers
 Presenter: Bene
   - Trackable features 
     - Pupil
@@ -107,7 +107,7 @@ Presenter: Bene
 **Homework:**
   - Read relevant chapter in Holmqvist et al.
 
-### Week 06 (Nov 24): Designing experiments with OpenSesame 1
+### Week 05 (Nov 24): Designing experiments with OpenSesame 1
 Presenter: Edwin Dalmaijer
   - Basics of OpenSesame without eye-tracking.  E.g. Posner cuing task.
   - Add eye-tracking (and mouse simulation) to the Posner task.
@@ -121,7 +121,7 @@ Presenter: Edwin Dalmaijer
     you could actually run.  Could be modeled after some classic
     study, e.g. Yarbus (1967).  Test it with mouse-tracking.
 
-### Week 07 (Dec 01): Designing experiments with OpenSesame 2
+### Week 06 (Dec 01): Designing experiments with OpenSesame 2
 Presenter: Edwin Dalmaijer
   - Anatomy of a simple reading experiment.
   - Gaze-contingency: make the experiment respond to eye movements.
@@ -133,7 +133,7 @@ Presenter: Edwin Dalmaijer
     you could actually run.  Could be modeled after some classic
     study.  Test it with mouse-tracking.
 
-### Week 08 (Dec 08): Acquisition of eye-tracking data and quality control 1
+### Week 07 (Dec 08): Acquisition of eye-tracking data and quality control 1
 Presenter: Titus
   - Calibration methods
   - Drift correction
@@ -156,7 +156,7 @@ Presenter: Titus
     - check how stable the sampling rate was, quantify variability somehow
     - label each sample with the AOI that it’s in (if any)
 
-### Week 09 (Dec 15): Detection of eye movements events and post-processing
+### Week 08 (Dec 15): Detection of eye movements events and post-processing
 Presenter: Titus
   - Maybe broaden this up to blackbox algorithms as well? Cluster, HMMs, Deepnets
   - Criteria for removing data.
@@ -171,13 +171,13 @@ Presenter: Titus
     - a basic velocity-based saccade detection
     - a basic box-model fixation detection
 
-### Week 10 (Dec 22): Conventional eye-tracking measures and analysis approaches in scene perception research
+### Week 09 (Dec 22): Conventional eye-tracking measures and analysis approaches in scene perception research
 Presenter: Bene
 
 **Homework:**
   - Read relevant chapter in Holmqvist et al.
 
-### Week 11 (Jan 12): Conventional eye-tracking measures and analysis approaches in reading research and the visual world paradigm
+### Week 10 (Jan 12): Conventional eye-tracking measures and analysis approaches in reading research and the visual world paradigm
 Presenter: Titus
 Reading:
   - Canonical ET measures and their interpretation.
@@ -209,7 +209,7 @@ Visual world paradigm:
     - regressions,
     - refixations.
 
-### Week 12 (Jan 19): Scanpaths
+### Week 11 (Jan 19): Scanpaths
 Presenter: Titus
   - Scanpath theory
   - Yarbus
@@ -223,7 +223,7 @@ Presenter: Titus
   - Read relevant chapter in Holmqvist et al. (if any).
   - Given a python function for calculating the dissimilarity of two scanpaths, perform some simple scanpath analysis.
 
-### Week 13 (Jan 26): Computational models of eye movements in scene viewing and reading
+### Week 12 (Jan 26): Computational models of eye movements in scene viewing and reading
 Presenter: Bene, Titus
   - SceneWalk
   - Deepgaze
@@ -247,12 +247,12 @@ Presenter: Bene, Titus
       model of eye-movement control in reading: Comparisons to other
       models. Behavioral Brain Science, 26(4), 445–476.
 
-### Week 14 (Feb 02): Presentation of group projects
+### Week 13 (Feb 02): Presentation of group projects
 Presenter: Students
 
 **Homework:** None.
 
-### Week 15 (Feb 09): Presentation of group projects
+### Week 14 (Feb 09): Presentation of group projects
 Presenter: Students
 
 **Homework:** None.
