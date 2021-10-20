@@ -44,7 +44,7 @@ Presenter: Bene
   - pupil
   - eye muscles
 
-**Homework:**
+**Homework for 02:**
   - Work through some Python tutorial.  Needs to cover basic math needed for the course.
   - Some basic programming exercises.
     1. Read some from a `.csv` file.
@@ -61,7 +61,7 @@ Presenter: Bene, Titus
     - Reading task, Music sheets?
   - Or should we give them a question, or should they come up with one themselves?
 
-**Homework:**
+**Homework for 03:**
   - Read some chapter in Holmqvist et al.
   - Choose a project or propose your own.
   - Form groups of 2 to 4 people for the project work.
@@ -76,9 +76,9 @@ Presenter: Bene
   - vergence
   - rotation
 
-**Homework:**
-  - Read relevant chapter in Holmqvist et al.
- 
+**Homework for 04:**
+  - Compare EyeTracker (visually) - tbd
+  - 
 ### Week 04 (Nov 17): Eye-tracking technologies / types of eye-trackers
 Presenter: Bene
   - Trackable features 
@@ -104,16 +104,9 @@ Presenter: Bene
   - laser scanning
   - bubble/mouse-click technique
 
-**Homework:**
-  - Read relevant chapter in Holmqvist et al.
 
-### Week 05 (Nov 24): Designing experiments with OpenSesame 1
-Presenter: Edwin Dalmaijer
-  - Basics of OpenSesame without eye-tracking.  E.g. Posner cuing task.
-  - Add eye-tracking (and mouse simulation) to the Posner task.
-  - Anatomy of a simple scene-perception experiment, e.g. Yarbus-style.
 
-**Homework:**
+**Homework for 05:**
   - Install OpenSesame.
   - Work through introductory tutorial.
   - Implement a simple scene perception experiment similar to what was
@@ -121,17 +114,35 @@ Presenter: Edwin Dalmaijer
     you could actually run.  Could be modeled after some classic
     study, e.g. Yarbus (1967).  Test it with mouse-tracking.
 
-### Week 06 (Dec 01): Designing experiments with OpenSesame 2
+### Week 05 (Nov 24): Designing experiments with OpenSesame 1
 Presenter: Edwin Dalmaijer
-  - Anatomy of a simple reading experiment.
-  - Gaze-contingency: make the experiment respond to eye movements.
+  - Basics of OpenSesame without eye-tracking.  E.g. Posner cuing task.
+  - Add eye-tracking (and mouse simulation) to the Posner task.
+  - Anatomy of a simple scene-perception experiment, e.g. Yarbus-style.
 
-**Homework:**
+**Homework for 06:**
   - Work through Visual World tutorial for OpenSesame.
   - Implement a simple reading experiment similar to what was
     shown in the lecture but spelled out into a full experiment that
     you could actually run.  Could be modeled after some classic
     study.  Test it with mouse-tracking.
+
+
+### Week 06 (Dec 01): Designing experiments with OpenSesame 2
+Presenter: Edwin Dalmaijer
+  - Anatomy of a simple reading experiment.
+  - Gaze-contingency: make the experiment respond to eye movements.
+
+
+
+**Homework for 07:**
+  - Read relevant chapter in Holmqvist et al.
+  - For a given data set:
+    - perform drift correction
+    - calculate accuracy
+    - calculate precision
+    - check how stable the sampling rate was, quantify variability somehow
+    - label each sample with the AOI that it’s in (if any)
 
 ### Week 07 (Dec 08): Acquisition of eye-tracking data and quality control 1
 Presenter: Titus
@@ -147,15 +158,13 @@ Presenter: Titus
   - Typical failure modes (example data).
   - Instructions (when you tell people not to blink, they sometimes blink more)
 
-**Homework:**
-  - Read relevant chapter in Holmqvist et al.
-  - For a given data set:
-    - perform drift correction
-    - calculate accuracy
-    - calculate precision
-    - check how stable the sampling rate was, quantify variability somehow
-    - label each sample with the AOI that it’s in (if any)
 
+**Homework for 08**
+  - Read relevant chapter in Holmqvist et al.
+  - Implement one of the following two and evaluate its performance using the provided reference data set:
+    - a basic velocity-based saccade detection
+    - a basic box-model fixation detection
+    - 
 ### Week 08 (Dec 15): Detection of eye movements events and post-processing
 Presenter: Titus
   - Maybe broaden this up to blackbox algorithms as well? Cluster, HMMs, Deepnets
@@ -165,33 +174,16 @@ Presenter: Titus
     - Cohen, A. L. (2012). Software for the automatic correction of recorded eye fixation locations in reading experiments. Behavior Research Methods, 45(3), 679–683. http://dx.doi.org/10.3758/s13428-012-0280-3
     - Carr, J. W., Pescuma, V. N., Furlan, M., Ktori, M., & Crepaldi, D. (2021). Algorithms for the automated correction of vertical drift in eye-tracking data. Behavior Research Methods. http://dx.doi.org/10.3758/s13428-021-01554-0
 
-**Homework:**
+
+
+**Homework for 09:**
   - Read relevant chapter in Holmqvist et al.
-  - Implement one of the following two and evaluate its performance using the provided reference data set:
-    - a basic velocity-based saccade detection
-    - a basic box-model fixation detection
 
 ### Week 09 (Dec 22): Conventional eye-tracking measures and analysis approaches in scene perception research
 Presenter: Bene
 
-**Homework:**
-  - Read relevant chapter in Holmqvist et al.
 
-### Week 10 (Jan 12): Conventional eye-tracking measures and analysis approaches in reading research and the visual world paradigm
-Presenter: Titus
-Reading:
-  - Canonical ET measures and their interpretation.
-  - Statistical issues
-  - Predicting comprehension from canonical ET measures (Mézière et al.).
-Visual world paradigm:
-  - Looks to target over time plots
-  - Binned analysis
-  - Gamms
-  - Survival analysis
-  - Permutation tests
-  - Stone and Lago paper.
-
-**Homework:**
+**Homework for 10:**
   - Read relevant chapter in Holmqvist et al.
   - Read:
     - Kliegl, R., & Laubrock, J. (2018). Eye-movement tracking during reading. In (Eds.), Research methods in psycholinguistics and the neurobiology of language: {A} practical guide (pp. 68–88). : Wiley Blackwell.
@@ -208,6 +200,26 @@ Visual world paradigm:
     - progressive saccades that skip the next word,
     - regressions,
     - refixations.
+### Week 10 (Jan 12): Conventional eye-tracking measures and analysis approaches in reading research and the visual world paradigm
+Presenter: Titus
+Reading:
+  - Canonical ET measures and their interpretation.
+  - Statistical issues
+  - Predicting comprehension from canonical ET measures (Mézière et al.).
+Visual world paradigm:
+  - Looks to target over time plots
+  - Binned analysis
+  - Gamms
+  - Survival analysis
+  - Permutation tests
+  - Stone and Lago paper.
+
+
+
+**Homework for 11:**
+  - Read relevant chapter in Holmqvist et al. (if any).
+  - Given a python function for calculating the dissimilarity of two scanpaths, perform some simple scanpath analysis.
+
 
 ### Week 11 (Jan 19): Scanpaths
 Presenter: Titus
@@ -218,16 +230,6 @@ Presenter: Titus
     - Anderson, N. C., Anderson, F., Kingstone, A., & Bischof, W. F. (2014). A comparison of scanpath comparison methods. Behavior Research Methods, 1–16. http://dx.doi.org/10.3758/s13428-014-0550-3
     - HMMs
   - Malsburg & Vasishth (2011)
-
-**Homework:**
-  - Read relevant chapter in Holmqvist et al. (if any).
-  - Given a python function for calculating the dissimilarity of two scanpaths, perform some simple scanpath analysis.
-
-### Week 12 (Jan 26): Computational models of eye movements in scene viewing and reading
-Presenter: Bene, Titus
-  - SceneWalk
-  - Deepgaze
-  - Some reading model
 
 **Homework:**
   - Read relevant chapter in Holmqvist et al.
@@ -246,6 +248,14 @@ Presenter: Bene, Titus
     - Reichle, E. D., Rayner, K., & Pollatsek, A. (2003). The e-z reader
       model of eye-movement control in reading: Comparisons to other
       models. Behavioral Brain Science, 26(4), 445–476.
+
+
+### Week 12 (Jan 26): Computational models of eye movements in scene viewing and reading
+Presenter: Bene, Titus
+  - SceneWalk
+  - Deepgaze
+  - Some reading model
+
 
 ### Week 13 (Feb 02): Presentation of group projects
 Presenter: Students
